@@ -1,7 +1,8 @@
 # NumPy-Mini-Project
 Mini Project using NumPy
 
-Let us build a mini project using the NumPy module
+Let us build a mini project using the NumPy module<br>
+
 Path : Project data = "makeSenseOfCensus.csv"
 
 Features of the data set:
